@@ -9,7 +9,7 @@ import Typography from "@material-ui/core/Typography";
 import Card from "@material-ui/core/Card";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
-import Share from "../components/share";
+import Share from "../components/Share";
 
 const useStyles = makeStyles(theme => ({
     container: {
