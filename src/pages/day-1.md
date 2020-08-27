@@ -4,7 +4,7 @@ day: "1"
 publishDate: "2020-08-26"
 thumbnailImage: "../images/day-1.png"
 shareText: "Stared learning React-Native"
-hashtags: ["100DaysOfCode", ""]
+hashtags: ["100DaysOfCode", "reactnative"]
 draft: false
 ---
 
