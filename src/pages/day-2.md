@@ -1,5 +1,5 @@
 ---
-title: "Group Project and React Native"
+title: "React and React Native"
 day: "2"
 publishDate: "2020-08-27"
 thumbnailImage: "../images/day-2.jpeg"
@@ -8,7 +8,7 @@ hashtags: ["100DaysOfCode", "react", "reactnative"]
 draft: false
 ---
 
-Continued working on a React Native App
+Continued working on the React Native App
 <br />
 Learning outcomes
 
@@ -16,7 +16,7 @@ Learning outcomes
   <li>Dimension API</li>
   <li>Touchables</li>
   <li>Alert API</li>
-  <li><a href="https://github.com/react-native-community/hooks">@react-native-community/hooks</a></li>
+  <li><a href="https://github.com/react-native-community/hooks" target="_blank">@react-native-community/hooks</a></li>
   <li>Created a couple of screens</li>
 </ol>
 

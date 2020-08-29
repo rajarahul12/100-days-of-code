@@ -10,7 +10,7 @@ draft: false
 
 Published an article to Medium on Deploying a react app using firebase in just 2 minutes.
 
-You can check out <a href="https://medium.com/@maddula.rajarahul/deploying-a-react-app-using-firebase-in-3-minutes-43d15bdd63d7"> the article here</a>
+You can check out <a href="https://medium.com/@maddula.rajarahul/deploying-a-react-app-using-firebase-in-3-minutes-43d15bdd63d7" target="_blank"> the article here</a>
 
 Continued working on the React Native app. Built a few screens and added styling using flexbox
 
