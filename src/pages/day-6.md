@@ -1,10 +1,10 @@
 ---
-title: "Docker and React Native"
+title: "Docker"
 day: "6"
 publishDate: "2020-08-31"
-thumbnailImage: "../images/day-5.jpeg"
-shareText: "Docker and ReactNative"
-hashtags: ["100DaysOfCode", "docker", "reactnative"]
+thumbnailImage: "../images/day-6.png"
+shareText: "Docker"
+hashtags: ["100DaysOfCode", "docker"]
 draft: false
 ---
 
@@ -23,9 +23,3 @@ Learned the following:
 4. Multi-stage docker files
 
 Created a repo for the <a href="https://github.com/rajarahul12/DockerSamples" target="_blank">Docker Samples</a>
-
-<h3>React Native</h3>
-
-Updated By EOD
-
-You can check out <a href="https://github.com/rajarahul12/DoneWithIt" target="_blank">the app code on GitHub</a>.
